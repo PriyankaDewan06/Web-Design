@@ -1,0 +1,146 @@
+.topBar ul li {
+    list-style: none;
+}
+.topBar ul li {
+    list-style: none;
+}
+
+
+.topBar ul li a i.icon-facebook:hover,
+.topBar ul.brands li a {
+    text-decoration: none;
+    -webkit-transition-duration: 0.2s;
+    -o-transition-duration: 0.2s;
+}
+
+.topBar {
+    background-color: #37474f;
+    font-family: "Inter", sans-serif;
+    overflow: hidden;
+}
+
+.topBar ul li {
+    display: inline-block;
+}
+
+.topBar ul.brands li a {
+    padding: 10px;
+    font-size: 11px;
+    color: #bdbdbd;
+    margin: 0 5px;
+    display: block;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+    transition-duration: 0.2s;
+    /* outline: 0 */
+}
+
+.lang-btn .btn+.btn,
+.topBar ul li a:first-child {
+    margin-left: 0;
+}
+
+.topBar ul.icons li {
+    padding: 3px 0 0;
+}
+
+.topBar ul.icons li a {
+    color: #bdbdbd;
+    text-decoration: none;
+}
+
+.topBar ul.icons li a i {
+    padding: 13px 10px 11px;
+    line-height: 14px;
+}
+
+.topBar ul li a i.icon-facebook:hover {
+    background-color: #3b5999;
+    color: #fff;
+    transition-duration: 0.2s;
+    /* outline: 0 */
+}
+
+.topBar ul li a i.icon-linkedin:hover {
+    background-color: #0a66c2;
+    color: #fff;
+    transition-duration: 0.2s;
+}
+
+.topBar ul li a i.icon-google-plus:hover,
+.topBar ul li a i.icon-youtube:hover,
+.topBar ul li a i.icon-youtube-brands:hover {
+    -webkit-transition-duration: 0.2s;
+    -o-transition-duration: 0.2s;
+    text-decoration: none;
+    color: #fff;
+    /* outline: 0 */
+}
+
+.topBar ul li a i.icon-google-plus:hover {
+    background-color: #dc4e41;
+    transition-duration: 0.2s;
+}
+
+.topBar ul li a i.icon-youtube:hover {
+    background-color: #e52d27;
+    transition-duration: 0.2s;
+}
+
+.topBar ul li a i.icon-youtube-brands:hover {
+    background-color: #e52d27;
+    transition-duration: 0.2s;
+}
+
+.topBar ul li a i.icon-instagram:hover {
+    background-color: #833ab4;
+    color: #fff;
+    text-decoration: none;
+    -webkit-transition-duration: 0.2s;
+    -o-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+    /* outline: 0 */
+}
+
+.topBar ul li a i.icon-envelope:hover {
+    background-color: #131418;
+    color: #fff;
+}
+
+.topBar ul li a.jobs.active {
+    background-color: #2f64a3;
+    color: #fff;
+    font-weight: 600;
+}
+
+.topBar ul li a.mybdjobs:hover {
+    background-color: #008020;
+    color: #fff;
+}
+
+.topBar ul li a.training:hover {
+    background-color: #ac016d;
+    color: #fff;
+}
+
+.topBar ul li a.corporate:hover {
+    background-color: #0b5f8a;
+    color: #fff;
+}
+
+
+/* added on 03dec2019-0233pm tariq sadat */
+
+.topBar ul li a.tender:hover {
+    background-color: #f57f17;
+    color: #fff;
+}
+
+.topBar-right {
+    padding: 7px 0 0;
+}
+.topBar ul.icons a i {
+    font-size: 14px;
+    line-height: 10px;
+}
